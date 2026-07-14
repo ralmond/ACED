@@ -1,0 +1,21 @@
+Package: ACED
+Type: Package
+Title: The ACED data set
+Version: 1.0.0
+Authors@R: c(
+    person(
+      "Russell", "Almond",
+      email = "russell.g.almond@gmail.com",
+      role = c("aut", "cre")
+    ),
+    person(
+      "Valerie", "Shute",
+      email="vshute@fsu.edu",
+      role=c("aut")
+    )
+  )
+Description: This packages the data from the ACED project.
+License: Artistic-2.0
+Encoding: UTF-8
+LazyData: true
+Config/roxygen2/version: 8.0.0
