@@ -1,4 +1,5 @@
 \name{FullACED}
+\alias{FullACED}
 \alias{FullACED.netman}
 \alias{FullACED.nodeman}
 \alias{FullACED.omega}
@@ -136,6 +137,10 @@
 
 \url{https://docs.google.com/spreadsheets/d/1oX4ndaEij_dWsap6YR_ZrQYWYUPD6urOsn4vzjBpZIQ/}
 
+}
+\seealso{
+  \code{\link{MiniACED}} for a model subset.
+  \code{\link{ACED}} for the response data.
 }
 \examples{
 data(FullACED)
